@@ -1,0 +1,9 @@
+# Mac system files
+.DS_Store
+
+# Token/secret files — never commit these
+GitToken.rtf
+*.rtf
+
+# Compiled binaries
+projects/**/HelloWorld
